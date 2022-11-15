@@ -4,3 +4,6 @@ A Parallel Corpus from the Mizan dataset including over a million sentences in F
 
 Link to Original source of Dataset (Github and Paper):
 https://github.com/omidkashefi/Mizan
+
+Documentation used to create config.yaml:
+https://opennmt.net/OpenNMT-py/quickstart.html

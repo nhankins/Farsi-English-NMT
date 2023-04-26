@@ -7,3 +7,5 @@ https://github.com/omidkashefi/Mizan
 
 Documentation used to create config.yaml:
 https://opennmt.net/OpenNMT-py/quickstart.html
+
+* May need to find alternative method besides OpenNMT that porovides more flexibility in parameter selection

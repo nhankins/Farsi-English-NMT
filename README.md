@@ -9,3 +9,4 @@ Documentation used to create config.yaml:
 https://opennmt.net/OpenNMT-py/quickstart.html
 
 * May need to find alternative method besides OpenNMT that porovides more flexibility in parameter selection
+* Can still use corpus with a transformer on hugging face potentially
